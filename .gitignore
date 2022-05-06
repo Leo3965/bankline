@@ -15,6 +15,11 @@ captures/
 *.apk
 output.json
 
+.angular/
+.angular
+*.angular
+bankline-app/.angular/
+
 # IntelliJ
 *.iml
 .idea/
